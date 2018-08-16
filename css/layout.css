@@ -24,4 +24,45 @@
 
 /* Posititoning Classes */
 
+.featuredBrands{
 
+  width: 625px;
+
+}
+
+.shoeArchive{
+  width: 320px;
+
+
+}
+.firstSection{
+  display: inline-block;
+  column-count: 2;
+}
+
+.secondSection{
+  display: block;
+  column-count:3;
+  margin-top: 20px;
+
+}
+
+.ladyBugs{
+  width: 300px;
+}
+
+.skaters{
+  width: 300px;
+}
+
+.heels{
+  width: 330px;
+  margin-left: -20px;
+}
+
+.thirdSection{
+  display: block;
+  column-count:3;
+  margin-top: 20px;
+
+}
